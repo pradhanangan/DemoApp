@@ -11,6 +11,7 @@ on:
 
 jobs:
   build-app:
+    name: "build app"
 
     runs-on: ubuntu-latest
 
